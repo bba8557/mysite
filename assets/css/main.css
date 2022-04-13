@@ -1,0 +1,11 @@
+@charset "UTF-8";
+			/****** 컨택트(이미지 내용글) ******/
+#img-profile {
+	margin: 0px 20px 0px 0px;
+	width: 300px;
+	float: left;
+	}
+#greeting {
+	float: left;
+	font-size: 18px;
+	}
